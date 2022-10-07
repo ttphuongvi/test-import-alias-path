@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "baseUrl": "./src",
+      "paths": {
+        "@*": ["./*"],
+        "@components/*": ["./components/*"]
+      },
+      "target": "es2020"
+    },
+    "include": [
+      "./src/**/*"
+    ]
+}
